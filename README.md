@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigmike94
-- 👀 I’m interested in Web Programming, Cyberpunk movies and historical books
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Laravel, React.js, Redux, MobX
 - 💞️ I’m looking to collaborate on CRM or ERP system development
 - 📫 How to reach me: inbox me on misha.kirichenko.2994@gmail.com
